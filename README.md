@@ -14,11 +14,11 @@ The pivot table created displays each country grouped under each age group, with
 
 ![alt text](Bike_Sales_Image/Bike11.png)
 
-![alt text](Bike_Sales_Image/Bike1.png)
-
 ### Visualising Pivot Table Data
 
 Presenting the pivot table as a graphical chart will highlight features of the data and assist in analysis and decision making. 
+
+![alt text](Bike_Sales_Image/Bike1.png)
 
 ![alt text](Bike_Sales_Image/Bike5.png)
 
