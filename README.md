@@ -10,13 +10,13 @@ In this project, we will learn the basics of creating a pivot table in Microsoft
 
 ### Creating an Excel Pivot Table
 
-The pivot table created displays each country grouped under each age group, with the sum of the order quantity for each age group in total, and the total for each country under that age group.
+Pivot tables can reveal useful information in records or data that is not obvious at first sight by summarising and re-presenting the data so trends can be explored and reported. Pivot tables extract meaning from the data by grouping it in different ways, enabling useful conclusions to be made.
 
 ![alt text](Bike_Sales_Image/Bike11.png)
 
 ### Visualising Pivot Table Data
 
-Presenting the pivot table as a graphical chart will highlight features of the data and assist in analysis and decision making. 
+Presenting the pivot table as a graphical chart will highlight features of the data and assist in analysis and decision making. Line charts are commonly used to show trends over time or continuous data. They are great for visualizing changes, patterns, and fluctuations in data across a time period. Column charts are used to compare values across different categories. They can be used to display data that falls into discrete categories. Pie charts are effective for showing the proportions or percentages of a whole. Each "slice" of the pie represents a category's contribution to the total value. 
 
 ![alt text](Bike_Sales_Image/Bike1.png)
 
