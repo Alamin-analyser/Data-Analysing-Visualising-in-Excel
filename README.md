@@ -24,6 +24,22 @@ Presenting the pivot table as a graphical chart will highlight features of the d
 
 ![alt text](Bike_Sales_Image/Bike6.png)
 
+**Key Findings:**
+
+Australia & United Kingdom has sales in all markets
+Germany has bike sales only on Adult group.
+
+Canada, Germany and United States there was no bike sales on Youth group.
+
+Canada and France there was no bike sales on adult female group.
+
+Most Profitable market by country- United States
+
+Most Profitable market by age group – Adults (35-64)
+
+Most Profitable market by gender - Female
+
+
 **Full Project work book [here.](https://drive.google.com/file/d/1dRvYrJUP0yl3MCPxrpv98O1E8jtro_pq/view?usp=drive_link)**
 
 **Click [here](https://github.com/Alamin-analyser/Python-GDP-Project) to see another Project.**
