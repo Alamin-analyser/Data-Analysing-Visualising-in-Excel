@@ -20,7 +20,7 @@ Presenting the pivot table as a graphical chart will highlight features of the d
 
 ![alt text](Bike_Sales_Image/Bike1.png)
 
-![alt text](Bike_Sales_Image/Bike5.png)
+![alt text](Bike_Sales_Image/Bike4.png)
 
 ![alt text](Bike_Sales_Image/Bike6.png)
 
