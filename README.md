@@ -39,6 +39,7 @@ Most Profitable market by age group – Adults (35-64)
 
 Most Profitable market by gender - Female
 
+**Data Source: Just IT, Google, ChatGPT**
 
 **Full Project work book [here.](https://drive.google.com/file/d/1dRvYrJUP0yl3MCPxrpv98O1E8jtro_pq/view?usp=drive_link)**
 
